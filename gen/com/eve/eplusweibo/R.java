@@ -257,7 +257,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:behindOffset
+          @attr name com.eve.eplusweibo:behindOffset
         */
         public static final int SlidMenu_behindOffset = 3;
         /**
@@ -271,7 +271,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:behindScrollScale
+          @attr name com.eve.eplusweibo:behindScrollScale
         */
         public static final int SlidMenu_behindScrollScale = 5;
         /**
@@ -287,7 +287,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:behindWidth
+          @attr name com.eve.eplusweibo:behindWidth
         */
         public static final int SlidMenu_behindWidth = 4;
         /**
@@ -301,7 +301,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:fadeDegree
+          @attr name com.eve.eplusweibo:fadeDegree
         */
         public static final int SlidMenu_fadeDegree = 11;
         /**
@@ -315,7 +315,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:fadeEnabled
+          @attr name com.eve.eplusweibo:fadeEnabled
         */
         public static final int SlidMenu_fadeEnabled = 10;
         /**
@@ -332,7 +332,7 @@ containing a value of this type.
 <tr><td><code>left</code></td><td>0</td><td></td></tr>
 <tr><td><code>right</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name android:mode
+          @attr name com.eve.eplusweibo:mode
         */
         public static final int SlidMenu_mode = 0;
         /**
@@ -342,7 +342,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:selectorDrawable
+          @attr name com.eve.eplusweibo:selectorDrawable
         */
         public static final int SlidMenu_selectorDrawable = 13;
         /**
@@ -356,7 +356,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:selectorEnabled
+          @attr name com.eve.eplusweibo:selectorEnabled
         */
         public static final int SlidMenu_selectorEnabled = 12;
         /**
@@ -366,7 +366,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:shadowDrawable
+          @attr name com.eve.eplusweibo:shadowDrawable
         */
         public static final int SlidMenu_shadowDrawable = 8;
         /**
@@ -382,7 +382,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:shadowWidth
+          @attr name com.eve.eplusweibo:shadowWidth
         */
         public static final int SlidMenu_shadowWidth = 9;
         /**
@@ -399,7 +399,7 @@ containing a value of this type.
 <tr><td><code>margin</code></td><td>0</td><td></td></tr>
 <tr><td><code>fullscreen</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name android:touchModeAbove
+          @attr name com.eve.eplusweibo:touchModeAbove
         */
         public static final int SlidMenu_touchModeAbove = 6;
         /**
@@ -416,7 +416,7 @@ containing a value of this type.
 <tr><td><code>margin</code></td><td>0</td><td></td></tr>
 <tr><td><code>fullscreen</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name android:touchModeBehind
+          @attr name com.eve.eplusweibo:touchModeBehind
         */
         public static final int SlidMenu_touchModeBehind = 7;
         /**
@@ -426,7 +426,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:viewAbove
+          @attr name com.eve.eplusweibo:viewAbove
         */
         public static final int SlidMenu_viewAbove = 1;
         /**
@@ -436,7 +436,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:viewBehind
+          @attr name com.eve.eplusweibo:viewBehind
         */
         public static final int SlidMenu_viewBehind = 2;
     };
