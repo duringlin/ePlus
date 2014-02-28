@@ -35,7 +35,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.eve.eplusweibo.StartActivity"
+            android:name="com.eve.eplusweibo.main.StartActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -45,6 +45,30 @@
         </activity>
         <activity
             android:name="com.eve.eplusweibo.MainActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name="com.eve.eplusweibo.account.AccountActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name="com.eve.eplusweibo.account.BindActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name="com.eve.eplusweibo.more.FeedbackActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name="com.eve.eplusweibo.more.ProspectActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name="com.eve.eplusweibo.more.SetActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name="com.eve.eplusweibo.send.SendActivity"
             android:label="@string/title_activity_main" >
         </activity>
     </application>
