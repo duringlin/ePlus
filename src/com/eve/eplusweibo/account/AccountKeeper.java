@@ -150,7 +150,6 @@ public class AccountKeeper {
     	return model;
     }
     
-	
 	/**
 	 * 改
      * 修改帐号信息，缓存中必须有该账户信息 ，并且不能修改UID
